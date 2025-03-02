@@ -29,7 +29,7 @@ Cảnh báo mực nước là công cụ giúp bạn theo dõi mực nước d�
    - Thông qua Python hoặc bất cứ cách nào, ví dụ:
      ```bash
      pip install playwright
-     playwright install```
+     playwright install
 	 
 2. Thông qua python hoặc bất cứ gì cài đặt Playwraight. Ví dụ python:
 	pip install playwright
