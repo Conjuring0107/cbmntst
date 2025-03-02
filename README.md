@@ -37,7 +37,6 @@ Cảnh báo mực nước là công cụ giúp bạn theo dõi mực nước d�
      pip install playwright
      playwright install
 	 
-	 
 	- Sau đó tìm đường dẫn chứa ms-playwright và coppy nguyên folder (nếu muốn nó tương tích với cả firefox, ms edge, chronium)
 hoặc chỉ ms-playwright\chromium_headless_shell-xxxx (nếu chỉ muốn dùng chronium) đưa vào folder Release (hoặc Debug). Nó sẽ có
 đường dẫn dạng: 
